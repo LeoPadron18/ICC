@@ -1,0 +1,39 @@
+Universidad Nacional Autónoma de México
+Facultad de Ciencias, Ciencias de la Computación
+Introducción a Ciencias de la Computacion Semestre 2025-2
+
+Alumno: Ramirez Padron Angel leonardo N.Cuenta: 321291389 Correo: leopadron@ciencias.unam.mx
+
+Colaboradores:
+1. Pedro Ulises Cervantes González confundeme@ciencias.unam.mx
+2. Yessica Janeth Pablo Martínez   yessica_j_pablo@ciencias.unam.mx
+3. Raúl Eduardo Martínez Damaso    raulmartinez@ciencias.unam.mx
+
+Descripicion del Proyecto
+
+El presente Proyecto 01 de Introducción a Ciencias de la Computación, consta de 3 clases en lenguaje de programación java llamadas "ServiciosRecipiente.java", "Recipiente.java" y "Main.java" con las siguientes caracteristicas
+
+ServiciosRecipiente.java: Es una Interfaz, en dicha clase se encontraran los metodos a implementar en la clase Recipiente, para dar funcionalidad, esta clase fue copiada tal cual, del archivo .pdf brindado por los profesores encargados, con el objeto, de evitar algun tipo de eroor al momento de ejcutar.
+
+Recipiente.java: Clase que implementa los metodos de la interfaz, en dicha clase, se encontraran los metodos de accesos asi conmo el constructor, la cual es la raiz para el recipiente y sus atributos o caracrteristicas
+
+Main.java: Clase que ejecuta y brinda datos a los metodos de recipiente.java, estos datos podran ser modificados siempre y cuando cumplan las caracteristicas solicitadas. 
+
+
+¿Hubo algún inconveniente al momento de programar?
+
+El unico inconveniente que existio durante el proceso de programar este proyecto, fue el uso de "Math", pues 
+al ya tener tiempo que no la usaba, no recordaba los nombres de algunas funciones, como Math.pi, Math.pow, Math.min, etc. Tambien, para que muestre al momento de imprimir solo 2 digitos despues del punto decimal, se uso %.2f 
+
+De ahi en fuera, no hubo inconveniente alguno, se uso cosas basicas que hemos visto hasta el momento, desde los metodos hasta controladores de flujo (if y else).
+
+
+Instrucciones para ejecutarlo:
+
+1. Poseer java en agluna computadora, 
+2. Compilar usando "javac ServiciosRecioiente.java, Recipiente.java, Main.java
+3. Ejecutar usando "java Main.java"
+
+Nota. No se requiere de algún IDE Com netBeans o algo por el estilo.
+
+
